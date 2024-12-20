@@ -1,0 +1,1 @@
+Space Odyssey es un pequeño juego de texto (sin interfaz gráfica) del estilo Dungeon Crawler escrito en Python. Se puede jugar descargando los archivos y ejecutando el main. Requiere tener instalado Python. Al final de cada partida escribirá en un fichero llamado estadísticas_SpaceOddyssey el resultado de esta.
